@@ -1,0 +1,17 @@
+{
+  "name": "@mateusz_lisowski/merge-classnames",
+  "version": "1.0.0",
+  "description": "Simple javascript library which handle and merge conditional class names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merge",
+    "classnames",
+    "classes",
+    "join classes"
+  ],
+  "author": "Mateusz Lisowski",
+  "license": "ISC"
+}
