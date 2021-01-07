@@ -1,6 +1,6 @@
 {
   "name": "@mateusz_lisowski/merge-classnames",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple javascript library which handle and merge conditional class names",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,13 @@
     "classes",
     "join classes"
   ],
-  "author": "Mateusz Lisowski",
-  "license": "ISC"
+  "license": "MIT",
+  "author": {
+    "name": "Mateusz Lisowski",
+    "email": "mlmateuszlisowski@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MateuszLisowski/mateusz_lisowski-merge-classnames"
+  }
 }

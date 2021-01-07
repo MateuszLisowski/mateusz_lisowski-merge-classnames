@@ -9,17 +9,31 @@ It could be used for example in the React project.
 
 No dependencies.
 
+
 ## Install
 
 ```
 $ npm install @mateusz_lisowski/merge-classnames
 ```
 
+
+## Usage
+
+```js
+
+
+import cx from '@mateusz_lisowski/merge-classnames';
+
+or
+
+const cx = require("@mateusz_lisowski/merge-classnames");
+
+```
+
+
 ## Examples
 
 ```js
-const cx = require("@mateusz_lisowski/merge-classnames");
-
 cx([{ "any-className": true }, "fixed-class"]); // 'any-className fixed-class'
 
 cx([{ "any-className": false }, { "second-className": true }]); // 'second-className'
